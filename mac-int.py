@@ -15,7 +15,7 @@ from Tkinter import Tk, Label
 
 def main():
     root = Tk()
-    w=Label(root, text="Hi Kay It smells good in here")
+    w=Label(root, text="Hey man this is a window")
     
     w.pack()
     w.mainloop()
